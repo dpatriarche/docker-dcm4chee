@@ -3,7 +3,7 @@ docker-dcm4chee
 
 This project builds a [Docker](https://www.docker.io/) image for the [DCM4CHEE](http://www.dcm4che.org/) medical image manager/archive. The Docker image includes DCM4CHEE running on a JBoss webapp server, backed by a MySQL database.  Installing DCM4CHEE from scratch is a [non-trivial exercise](http://dcm4che.org/confluence/display/ee2/Installation), so using a pre-built Docker image can save a lot of time.
 
-## Building a running the 'dcm4chee' image
+## Building and running the 'dcm4chee' image
 
 The 'dcm4chee' image is built as follows:
 
